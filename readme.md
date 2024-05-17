@@ -4,7 +4,7 @@
 
 ## Cesar
 
- - Realizar a correlação entre dos DataSets <br><br>
+ - Realizar a correlação entre dos DataSets <br>
 Sobre Obesidade: <br>
  - Filtre as informações corretas para apresentar os resultados de obesidade.<br>
  - Os dados entre homens mulheres são parecidos? Informe com números. <br>
@@ -26,7 +26,7 @@ Sobre PIB Per Capita: <br>
  - Faça uma média entre um valor e outro, dívida por 5, e interpole esses valores.<br>
  - Plot um gráfico
 
-## Rafael
+## Ramon
 
 Sobre PIB Per Capita: <br>
  - Informe as regiões de maiores crescimentos de PIB. Use gráficos para finalizar a resposta.<br><br>
