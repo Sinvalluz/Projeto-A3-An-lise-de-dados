@@ -40,8 +40,9 @@ Sobre PIB Per Capita:
 
 -   Verifique de forma gráfica, se existe alguma relação entre esses dados:
 
-1 - Quanto mais dinheiro, mais obeso? <br> 2 - O resultado em 1 é o mesmo no Brasil? Qual a diferença entre Brasil, USA
-e Portugal?
+1 - Quanto mais dinheiro, mais obeso?
+
+2 - O resultado em 1 é o mesmo no Brasil? Qual a diferença entre Brasil, USA e Portugal?
 
 # Libs que podem ser usadas
 
