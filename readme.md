@@ -1,52 +1,23 @@
-# Projeto A3
+# Análise de Dados: Obesidade e PIB
 
-# Atribuições para cada um fazer
+## Objetivo
 
-## Cesar
+Este projeto tem como objetivo realizar uma análise aprofundada da relação entre os índices de obesidade e o Produto Interno Bruto (PIB) de diversos países. Utilizando a biblioteca Pandas do Python, exploraremos um conjunto de dados para identificar correlações e padrões que possam auxiliar na compreensão desse fenômeno global.
 
--   Realizar a correlação entre dos DataSets
+## Tecnologias Utilizadas
 
-Sobre Obesidade:
+* **Python:** Versão 3.8 ou superior
+* **Pandas:** Biblioteca essencial para manipulação e análise de dados.
+* **Matplotlib/Seaborn:** Ferramentas de visualização para criação de gráficos e visualizações informativas.
+* **Jupyter Notebook:** Ambiente interativo para desenvolvimento e exploração de dados (opcional).
 
--   Filtre as informações corretas para apresentar os resultados de obesidade.
--   Os dados entre homens mulheres são parecidos? Informe com números.
--   Limpe os dados do DataFrame, criando uma coluna de nome 'Obesity' que conterá os valores de obesidade. Transforme em
-    float as colunas que porventura foram importadas como string.
+## Instalação
 
-## Sinval
+Para configurar o ambiente de desenvolvimento, siga os seguintes passos:
 
-Sobre Obesidade:
-
--   Qual o percentual médio de obesidade por sexo na américa do norte no ano de 2010?
--   Qual os top 3 com maior e menor taxa de aumento de índices de obesidade nesse período de 2010? E em 2016?
--   E os top 3 com maior e menor taxa de aumento de índices de obesidade no período completo, até o último registro ?
--   Extraia o máximo de informação possível sobre o Brasil. (O que julga ser importante sobre esse dataset? Use gráficos
-    e apresente.)
-
-## Fraga
-
-Sobre PIB Per Capita:
-
--   Limpe os dados da mesma forma como fez com os dados de obesidade. Aplique todas as técnicas possíveis.
--   Os dados estão separados de 5 em 5 anos. Adapte preenchendo os anos vazios.
--   Faça uma média entre um valor e outro, dívida por 5, e interpole esses valores.
--   Plot um gráfico
-
-## Ramon
-
-Sobre PIB Per Capita:
-
--   Informe as regiões de maiores crescimentos de PIB. Use gráficos para finalizar a resposta.
-
--   Verifique de forma gráfica, se existe alguma relação entre esses dados:
-
-1 - Quanto mais dinheiro, mais obeso?
-
-2 - O resultado em 1 é o mesmo no Brasil? Qual a diferença entre Brasil, USA e Portugal?
-
-# Libs que podem ser usadas
-
--   Pandas
--   Matplotlib
--   Ploty
--   Seaborn
+1. **Instale o Python:** Baixe e instale a versão mais recente do Python a partir de https://www.python.org/.
+2. **Crie um ambiente virtual:** Isso é recomendado para isolar as dependências do projeto. Utilize ferramentas como `venv` ou `conda` para criar um ambiente virtual e ativá-lo.
+3. **Instale as dependências:** Execute o seguinte comando dentro do ambiente virtual:
+   ```bash
+   pip install pandas matplotlib seaborn
+   ```
